@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello everyone! 👋
+
+My Codewars Profile: <a href="https://www.codewars.com/users/Nikitagrom/" title="NikitaGrom Codewars profile"> Click! </a> <br/>
+Currently i'm waiting for start RS School december course.
 
 <!--
 **Gromov812/Gromov812** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
